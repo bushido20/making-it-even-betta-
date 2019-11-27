@@ -36,7 +36,6 @@ from discord.ext import commands
 import json
 import subprocess
 import asyncio
-from ext import utils
 from ext.paginator import PaginatorSession
 
 
