@@ -36,8 +36,6 @@ from discord.ext import commands
 import json
 import subprocess
 import asyncio
-from ext.paginator import PaginatorSession
-
 
 # def load_json(path, key):
 #     with open(f'./data/{path}') as f:
