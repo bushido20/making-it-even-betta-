@@ -2,3 +2,7 @@ urbandictionary
 wikipedia
 motor
 cocasync
+discord.py
+typing
+bs4
+asyncio
